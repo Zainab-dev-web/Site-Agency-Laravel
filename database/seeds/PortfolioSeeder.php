@@ -16,17 +16,17 @@ class PortfolioSeeder extends Seeder
             [
             'titre' => 'portfolio-1',  
         'URL' => "img/portfolio/01-full.jpg",  
-        'description' => "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur at ducimus odit ipsa optio harum porro quo hic, reiciendis enim maiores, nihil itaque doloribus ut, nesciunt fugit maxime dolorum architecto!",
+        'description' => "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
         ] , 
         [
             'titre' => 'portfolio-2',  
             'URL' => "img/portfolio/02-full.jpg",  
-            'description' => "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis, sunt veniam culpa molestias porro perferendis est placeat libero dignissimos corporis aliquid nesciunt perspiciatis, commodi ab laborum ut architecto minus officiis. ",
+            'description' => "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo! ",
         ],
         [
             'titre' => 'portfolio-3',  
             'URL' => "img/portfolio/03-full.jpg",
-            'description' => "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem quibusdam cumque blanditiis perspiciatis, quia quod illo harum esse! Optio beatae reiciendis magni sint voluptates cupiditate nisi quas harum tempore consequatur. ",
+            'description' => "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo! ",
         ],
 
         

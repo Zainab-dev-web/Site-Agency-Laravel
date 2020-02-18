@@ -1,11 +1,13 @@
 @extends('layouts/master')
 
+
+{{-- 
+@section('url1' , $portfolio[0]->url)
+@section('url2', $portfolio[1]->url)
+@section('url3', $portfolio[2]->url) 
+--}}
+
 @section('content')
-
-@section('url1')
-@section('url2')
-@section('url3')
-
 @include('components/navbar')
 @include('components/header')
 @include('partials/service')

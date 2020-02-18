@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/', "WelcomeController@index")->name('welcome');
+Route::get('/', "PortfolioController@index");
